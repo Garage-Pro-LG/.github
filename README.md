@@ -5,7 +5,7 @@ Garage Pro is a powerful app designed to streamline the daily operations of an a
 🌱 In Development
 <br>
 <br>
-## 🔹 Tech Stack
+## 🫧 Tech Stack
 - Frontend: **Angular**
 
 - Backend: **Node.js**
@@ -16,7 +16,7 @@ Garage Pro is a powerful app designed to streamline the daily operations of an a
 - CI/CD: **GitHub Actions**
 <br>
 
-## 🔹 Key Features
+## 🫧 Key Features
 
 - **Appointment Management**: Schedule and manage workshop reservations.
 
@@ -33,7 +33,7 @@ Garage Pro is a powerful app designed to streamline the daily operations of an a
 - **License Plate Search**: Quickly access vehicle history, customer details, and past repairs.
 <br>
 
-## 🔹 Contributors
+## 🫧 Contributors
 - [David Aguayo](https://github.com/guayo70)
 
 - [Elisenda López](https://github.com/Elisenda-LV)
